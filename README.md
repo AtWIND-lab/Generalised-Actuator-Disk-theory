@@ -1,6 +1,6 @@
 # Generalised Actuator Disk Theory — Visualization Notebooks 
 
-This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides **[Jupyter Notebooks](/JupyterNotebooks)** that reproduce **[Figure 6](/JupyterNotebooks/Figure6)** and **[Figure 8](/JupyterNotebooks/Figure8)** from the manuscript. 
+This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides **[Jupyter Notebooks](/JupyterNotebooks)** that reproduce **[Figure 6](/JupyterNotebooks/Figure%206)** and **[Figure 8](/JupyterNotebooks/Figure%208)** from the manuscript. 
 
 ---
 
