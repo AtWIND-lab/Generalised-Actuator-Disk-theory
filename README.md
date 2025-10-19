@@ -9,4 +9,4 @@ The **generalised actuator disk theory** extends the classical formulation by:
 ![Actuator Disk Schematic](images/schematic.PNG)
 ----------------------------------------
 
-This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides Jupyter notebooks that reproduce **Figure 6** and **Figure 8** from the manuscript. These notebooks demonstrate the flow development, wake recovery, and thrust characteristics predicted by the model.
+This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides Jupyter notebooks that reproduce **[Figure 6](JupyterNotebook/Figure 6)** and **[Figure 8](JupyterNotebook/Figure 8)** from the manuscript. These notebooks demonstrate the flow development, wake recovery, and thrust characteristics predicted by the model.
