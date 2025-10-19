@@ -1,6 +1,8 @@
-# Generalised Actuator Disk Theory — Visualization Notebooks
+# Generalised Actuator Disk Theory — Visualization Notebooks 
 
+This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides **[Jupyter Notebooks](/JupyterNotebooks)** that reproduce **[Figure 6](/JupyterNotebooks/Figure6)** and **[Figure 8](/JupyterNotebooks/Figure8)** from the manuscript. 
 
+---
 
 The **generalised actuator disk theory** extends the classical formulation by:
 1. Describing how flow properties — velocity ($U$), pressure ($P$), and cross-sectional area ($\sigma$) — vary with the streamwise coordinate $x$, rather than limiting the analysis to far-upstream and far-downstream conditions.  
@@ -9,4 +11,3 @@ The **generalised actuator disk theory** extends the classical formulation by:
 ![Actuator Disk Schematic](images/schematic.PNG)
 ----------------------------------------
 
-This repository accompanies the paper **“Generalised Actuator Disk Theory”** ([arXiv:2510.08213](https://arxiv.org/abs/2510.08213)) and provides Jupyter notebooks that reproduce **[Figure 6](Jupyter Notebooks/Figure 6)** and **[Figure 8](Jupyter Notebooks/Figure 8)** from the manuscript. These notebooks demonstrate the flow development, wake recovery, and thrust characteristics predicted by the model.
